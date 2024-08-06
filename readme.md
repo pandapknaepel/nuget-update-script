@@ -52,3 +52,5 @@ A Python script that automates the process of updating NuGet packages for .NET p
 
 4. **Handling Errors**:
    The script will only display output if an error occurs during the update, restore, or build processes, ensuring a clean and concise workflow.
+
+![image](https://github.com/user-attachments/assets/785a9478-1610-413c-a068-d03776aab0e0)
